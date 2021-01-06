@@ -26,8 +26,8 @@ Secret sauces to creating awesome templates 🚀
 | x     | Postgres           |          |
 | x     | Knex               |          |
 |       | Redis              |          |
-|       | Socket.io          |          |
-|       | Passport.js        |          |
+| x     | Socket.io          |          |
+| x     | Passport.js        |          |
 |       | Bcrypt             |          |
 |       | React              |          |
 |       | React Router       |          |

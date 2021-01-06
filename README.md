@@ -4,7 +4,7 @@ Secret sauces to creating awesome templates 🚀 (tryna change the world, one re
 
 ## Purpose
 
-The purpose of creating the readmes is to ensure that the students have an easier time breaking down the various tasks in utilizing data structures and libraries.
+The purpose of creating the readmes is to ensure that software engineers have an easier time breaking down the various tasks in utilizing data structures and libraries.
 
 ## Sprint :athletic_shoe:
 

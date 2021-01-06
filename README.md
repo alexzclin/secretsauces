@@ -1,6 +1,10 @@
 # SecretSauces_Templates 🚀
 
-Secret sauces to creating awesome templates 🚀
+Secret sauces to creating awesome templates 🚀 (tryna change the world, one repository at a time)
+
+## Purpose
+
+The purpose of creating the readmes is to ensure that the students have an easier time breaking down the various tasks in utilizing data structures and libraries.
 
 ## Sprint :athletic_shoe:
 
@@ -18,10 +22,10 @@ Secret sauces to creating awesome templates 🚀
 |       | JQuery                      |          |
 |       | Express                     |          |
 |       | Axios                       |          |
-| x     | Jest                        |          |
+|       | Jest                        |          |
 |       | Handlebars                  |          |
 |       | Express-Handlebars          |          |
-| x     | Basic Auth                  |          |
+|       | Basic Auth                  |          |
 | x     | Model View Controller (MVC) |          |
 |       | SQL                         |          |
 | x     | Postgres                    |          |
